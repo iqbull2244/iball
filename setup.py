@@ -16,7 +16,7 @@ setup(
     description=DESCRIPTION,
     long_description=LONG_DESCRIPTION,
     long_description_content_type="text/markdown",
-    url='https://github.com/iqbull2244/informasi_mahasiswa.git',
+    url='https://github.com/iqbull2244/iball',
     packages=find_packages(),
     license='MIT',
     install_requires=[],
